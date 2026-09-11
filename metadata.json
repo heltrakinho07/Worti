@@ -1,0 +1,6 @@
+{
+  "name": "WORTI Safety - Saúde e Segurança no Trabalho",
+  "description": "Website corporativo B2B da WORTI Safety, Lda. Especialistas em Saúde, Higiene Ocupacional, Segurança no Trabalho, Ambiente e Formação em Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
